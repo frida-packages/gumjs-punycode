@@ -5,7 +5,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/frida/gumjs-punycode",
+  "homepage": "https://github.com/frida-packages/gumjs-punycode",
   "main": "punycode.js",
   "type": "module",
   "keywords": [
@@ -30,9 +30,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-punycode.git"
+    "url": "https://github.com/frida-packages/gumjs-punycode.git"
   },
-  "bugs": "https://github.com/frida/gumjs-punycode/issues",
+  "bugs": "https://github.com/frida-packages/gumjs-punycode/issues",
   "files": [
     "LICENSE-MIT.txt",
     "punycode.js"
